@@ -1,4 +1,5 @@
-![Gitea language count](https://img.shields.io/gitea/languages/count/Sub-7/Mailcow-update-mailer)
+![GitHub License](https://img.shields.io/github/license/Sub-7/Mailcow-update-mailer)
+
 
 
 # Mailcow update mailer
