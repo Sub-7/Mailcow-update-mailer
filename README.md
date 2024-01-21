@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/Sub-7/Mailcow-update-mailer/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/Sub-7/Mailcow-update-mailer/actions/workflows/codeql.yml)
+
 # Mailcow update mailer
 - Testet on Debian GNU/Linux 12 (bookworm)
 # Description
