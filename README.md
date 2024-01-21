@@ -28,4 +28,5 @@ apt remove --purge s-nail -y && rm Mailcow-update-mailer.sh && rm Mailcow-update
 ```
 also edit crontab and remove line with content "03:00 * * * */root/Mailcow-update-mailer.sh"
 Command: crontab -e
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/SubS7v7n)
