@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/Sub-7/Mailcow-update-mailer) ![GitHub watchers](https://img.shields.io/github/watchers/Sub-7/Mailcow-update-mailer) ![GitHub language count](https://img.shields.io/github/languages/count/Sub-7/Mailcow-update-mailer) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Sub-7/Mailcow-update-mailer/total)
+[![CodeQL](https://github.com/Sub-7/Mailcow-update-mailer/actions/workflows/codeql.yml/badge.svg)](https://github.com/Sub-7/Mailcow-update-mailer/actions/workflows/codeql.yml) ![GitHub License](https://img.shields.io/github/license/Sub-7/Mailcow-update-mailer) ![GitHub watchers](https://img.shields.io/github/watchers/Sub-7/Mailcow-update-mailer) ![GitHub language count](https://img.shields.io/github/languages/count/Sub-7/Mailcow-update-mailer) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Sub-7/Mailcow-update-mailer/total)
 
 
 
