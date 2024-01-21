@@ -1,4 +1,5 @@
-![GitHub License](https://img.shields.io/github/license/:user/:repo)
+![GitHub License](https://img.shields.io/github/license/:user/Sub-7%2FMailcow-update-mailer)
+
 
 # Mailcow update mailer
 - Testet on Debian GNU/Linux 12 (bookworm)
