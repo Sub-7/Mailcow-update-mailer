@@ -24,7 +24,7 @@ while ! validate_time "$selected_time"; do
 done
 
 # Create cron job entry
-cron_entry="$(echo "$selected_time" | awk -F: '{print $2, $1}' | sed 's/ /:/') * * * * /root/Mailcow-update-mailer.sh"
+cron_entry="$(echo "$selected_time" | awk -F: '{print $2, $1}' | sed 's/ /:/') * * * /root/Mailcow-update-mailer.sh"
 
 # Add cron job
 echo "Cron job will be added:"
