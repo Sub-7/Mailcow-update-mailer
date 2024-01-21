@@ -1,4 +1,3 @@
-![GitHub License](https://img.shields.io/github/license/:user/Sub-7%2FMailcow-update-mailer)
 
 
 # Mailcow update mailer
