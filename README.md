@@ -1,4 +1,5 @@
-![GitHub License](https://img.shields.io/github/license/Sub-7/Mailcow-update-mailer)
+![GitHub License](https://img.shields.io/github/license/Sub-7/Mailcow-update-mailer) ![GitHub watchers](https://img.shields.io/github/watchers/Sub-7/Mailcow-update-mailer)
+
 
 
 
