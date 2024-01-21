@@ -25,3 +25,4 @@ wget -O Mailcow-update-mailer-cronjob.sh https://raw.githubusercontent.com/Sub-7
 apt remove --purge s-nail -y && rm Mailcow-update-mailer.sh && rm Mailcow-update-mailer-cronjob.sh
 ```
 also edit crontab and remove line with content "03:00 * * * */root/Mailcow-update-mailer.sh"
+Command: crontab -e
