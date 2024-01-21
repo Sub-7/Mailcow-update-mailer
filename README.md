@@ -13,7 +13,7 @@ apt install s-nail -y && echo "set smtp=smtp://127.0.0.1:25" | tee -a /etc/s-nai
 2. Setup:
 (download script, query email address, execute)
 ```sh
-read -p "Please enter your e-mail address: " email_address && wget -O Mailcow-update-mailer.sh https://raw.githubusercontent.com/Sub-7/Mailcow-update-mailer/main/Mailcow-update-mailer.sh && sed -i "s/^\(email_address=\).*\$/\1\"$email_address\"/" Mailcow-update-mailer.sh && bash Mailcow-update-mailer.sh
+read -p "Please enter your e-mail address: " email_address && wget -O Mailcow-update-mailer.sh https://raw.githubusercontent.com/Sub-7/Mailcow-update-mailer/main/Mailcow-update-mailer.sh && chmod +x Mailcow-update-mailer.sh && sed -i "s/^\(email_address=\).*\$/\1\"$email_address\"/" Mailcow-update-mailer.sh && ./Mailcow-update-mailer.sh
 ```
 3. Set up daily Cronjob:
 (You will be asked for the time when the daily cron job should be executed)
