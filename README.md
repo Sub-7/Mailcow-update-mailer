@@ -1,2 +1,2 @@
-# Mailcow-update-mailer
-Mailcow update notification via email
+# Mailcow update mailer
+Mailcow update notification via email.
