@@ -1,3 +1,4 @@
+![Gitea language count](https://img.shields.io/gitea/languages/count/Sub-7/Mailcow-update-mailer)
 
 
 # Mailcow update mailer
