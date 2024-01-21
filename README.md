@@ -20,3 +20,7 @@ read -p "Please enter your e-mail address: " email_address && wget -O Mailcow-up
 ```sh
 wget -O Mailcow-update-mailer-cronjob.sh https://raw.githubusercontent.com/Sub-7/Mailcow-update-mailer/main/Mailcow-update-mailer-cronjob.sh && bash Mailcow-update-mailer-cronjob.sh
 ```
+Uninstall:
+```sh
+apt remove --purge s-nail -y && rm Mailcow-update-mailer.sh && rm Mailcow-update-mailer-cronjob.sh
+```
