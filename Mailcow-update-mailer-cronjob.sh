@@ -13,7 +13,7 @@ validate_time() {
 }
 
 # Set default values
-default_execution_time="03:00"
+default_execution_time="3:00"
 
 # Ask for the time of day for execution with default value
 read -p "Enter the time for daily execution in HH:MM format [default: $default_execution_time]: " selected_time
